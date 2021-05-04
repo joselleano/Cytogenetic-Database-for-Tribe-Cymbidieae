@@ -1,6 +1,5 @@
 ![logo](https://github.com/joselleano/Cytogenetic-Database-for-Tribe-Cymbidieae-Orchidaceae-/blob/911e5b43aafe682cfdaa58a75a69e55f1689cf43/CY.png)
 
-# Cytogenetic-Database-for-Tribe-Cymbidieae-Orchidaceae-
 A cytogenetic database, including **chromosome number** (haploid and/or diploid) and **genome size**, for the species belonging to tribe Cymbidieae (Orchidaceae).
 
 ## How to use?
