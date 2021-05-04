@@ -8,6 +8,6 @@ A .csv version of the database is available in the file "Database for consultati
 ### Database for download.xlsx
 This file contains a formatted .xlsx version of the database for download containing the same information provided in the .csv version.
 
-
+##
 - Please, [report any issues or bugs](https://github.com/joselleano/Cytogenetic-Database-for-Tribe-Cymbidieae-Orchidaceae-/issues).
 - Cite us: ...
