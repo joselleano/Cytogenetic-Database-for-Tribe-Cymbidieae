@@ -2,11 +2,10 @@
 
 A cytogenetic database, including **chromosome number** (haploid and/or diploid) and **genome size**, for the species belonging to tribe Cymbidieae (Orchidaceae).
 
-## How to use?
-### Database for consultation.csv
+### Database.csv
 This file contains a .csv version of the database that can be downloaded.
 
-### Database for download.xlsx
+### Database.xlsx
 This file contains a formatted .xlsx version of the database that can be downloaded.
 
 ##
